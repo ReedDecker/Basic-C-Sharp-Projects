@@ -1,0 +1,7 @@
+C:\Users\reeddecker\Desktop\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\ConsoleAppSubmission.exe.config
+C:\Users\reeddecker\Desktop\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\ConsoleAppSubmission.exe
+C:\Users\reeddecker\Desktop\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\ConsoleAppSubmission.pdb
+C:\Users\reeddecker\Desktop\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\ConsoleAppSubmission.csproj.AssemblyReference.cache
+C:\Users\reeddecker\Desktop\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\ConsoleAppSubmission.csproj.CoreCompileInputs.cache
+C:\Users\reeddecker\Desktop\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\ConsoleAppSubmission.exe
+C:\Users\reeddecker\Desktop\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\ConsoleAppSubmission.pdb
