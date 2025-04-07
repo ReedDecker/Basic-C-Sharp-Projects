@@ -1,0 +1,7 @@
+C:\Users\reeddecker\Desktop\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\ConsoleAppArraySubmission.exe.config
+C:\Users\reeddecker\Desktop\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\ConsoleAppArraySubmission.exe
+C:\Users\reeddecker\Desktop\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\ConsoleAppArraySubmission.pdb
+C:\Users\reeddecker\Desktop\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.csproj.AssemblyReference.cache
+C:\Users\reeddecker\Desktop\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.csproj.CoreCompileInputs.cache
+C:\Users\reeddecker\Desktop\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.exe
+C:\Users\reeddecker\Desktop\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\ConsoleAppArraySubmission.pdb
