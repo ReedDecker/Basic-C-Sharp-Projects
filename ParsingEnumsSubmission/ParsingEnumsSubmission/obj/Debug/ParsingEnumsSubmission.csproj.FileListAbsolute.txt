@@ -1,0 +1,7 @@
+C:\Users\reeddecker\Desktop\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe.config
+C:\Users\reeddecker\Desktop\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe
+C:\Users\reeddecker\Desktop\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.pdb
+C:\Users\reeddecker\Desktop\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csproj.AssemblyReference.cache
+C:\Users\reeddecker\Desktop\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\reeddecker\Desktop\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.exe
+C:\Users\reeddecker\Desktop\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.pdb
