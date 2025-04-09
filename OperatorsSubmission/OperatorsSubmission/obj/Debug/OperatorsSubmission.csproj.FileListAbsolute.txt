@@ -1,0 +1,7 @@
+C:\Users\reeddecker\Desktop\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe.config
+C:\Users\reeddecker\Desktop\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.exe
+C:\Users\reeddecker\Desktop\OperatorsSubmission\OperatorsSubmission\bin\Debug\OperatorsSubmission.pdb
+C:\Users\reeddecker\Desktop\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.AssemblyReference.cache
+C:\Users\reeddecker\Desktop\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\reeddecker\Desktop\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.exe
+C:\Users\reeddecker\Desktop\OperatorsSubmission\OperatorsSubmission\obj\Debug\OperatorsSubmission.pdb
