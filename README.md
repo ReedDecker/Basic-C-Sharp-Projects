@@ -6,11 +6,11 @@
 + [Boolean Logic](BooleanLogicSubmission)
 + [Branching](BranchingSubmission)
 + [Calling Methods](CallingMethodsSubmission)
-+ Car Insurance Quote App
-+ Class
-+ Console App Array
-+ Console App
-+ Constructor
++ [Car Insurance Quote App](CarInsurance)
++ [Class](ClassSubmission)
++ [Console App Array](ConsoleAppArraySubmission)
++ [Console App](ConsoleAppAssignmentSubmission)
++ [Constructor](ConstructorSubmission)
 + Daily Report
 + Date + Time
 + Lambda
