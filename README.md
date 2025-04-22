@@ -16,7 +16,7 @@
 + [Lambda](LambdaSubmission)
 + [Main Method](MainMethodSubmission)
 + [Math + Comparison Operators](MathAndComparisonOperatorsAssignment)
-+ [Methods](MethodsSubmission)
++ [Methods](MethodSubmission)
 + [Methods + Objects](MethodsAndObjects)
 + [Operators](OperatorsSubmission)
 + [ParsingEnums](ParsingEnumsSubmisssion)
