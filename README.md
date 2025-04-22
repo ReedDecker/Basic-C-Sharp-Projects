@@ -22,5 +22,5 @@
 + [ParsingEnums](ParsingEnumsSubmission)
 + [Polymorphism](PolymorphismSubmission)
 + [String](StringSubmission)
-+ Student App
++ [Student App](StudentApp)
   
