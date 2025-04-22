@@ -19,7 +19,7 @@
 + [Methods](MethodSubmission)
 + [Methods + Objects](MethodsAndObjectsSubmission)
 + [Operators](OperatorsSubmission)
-+ [ParsingEnums](ParsingEnumsSubmisssion)
++ [ParsingEnums](ParsingEnumsSubmission)
 + [Polymorphism](PolymorphismSubmission)
 + [String](StringSubmission)
 + Student App
