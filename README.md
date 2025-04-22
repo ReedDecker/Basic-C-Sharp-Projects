@@ -2,10 +2,10 @@
 ## These are few small projects I've done in C-Sharp programming languauge
 
 
-- [AbstractClass](AbstractClassSubmission)
-+ [BooleanLogic](ReedDecker/Basic-C-Sharp-Projects/tree/main/AbstractClassSubmission)
-+ Branching
-+ Calling Methods
++ [Abstract Class](AbstractClassSubmission)
++ [Boolean Logic](BooleanLogicSubmission)
++ [Branching](BranchingSubmission)
++ [Calling Methods](CallingMethodsSubmission)
 + Car Insurance Quote App
 + Class
 + Console App Array
