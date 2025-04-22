@@ -1,7 +1,7 @@
 # Basic-C#-Projects
 ## Collection of C# Projects Completed for the Tech Academy
 
- ## [Assignments](Assignments)
+ ## Assignments
 + [Abstract Class](AbstractClassSubmission)
 + [Boolean Logic](BooleanLogicSubmission)
 + [Branching](BranchingSubmission)
@@ -24,5 +24,5 @@
 + [String](StringSubmission)
 + [Student App](StudentApp)
   
-## [Assignments](Assignments)
+## Assignments
 These are the code files I wrote to complete assignments for the Tech Academy. There are combinations of these topics included in this repo aswell but the list encompasses the majority of the topics covered.
