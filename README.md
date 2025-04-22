@@ -25,4 +25,4 @@
 + [Student App](StudentApp)
   
 ## Assignments
-This repo includes code files I wrote to complete assignments for the Tech Academy C#/ASP.net Course
+This repo includes code files I wrote to complete assignments for the Tech Academy C# / ASP.net Course
