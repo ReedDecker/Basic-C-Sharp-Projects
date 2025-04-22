@@ -6,21 +6,21 @@
 + [Boolean Logic](BooleanLogicSubmission)
 + [Branching](BranchingSubmission)
 + [Calling Methods](CallingMethodsSubmission)
-+ [Car Insurance Quote App](CarInsurance)
++ [Car Insurance Quote App](CarInsurance.zip)
 + [Class](ClassSubmission)
 + [Console App Array](ConsoleAppArraySubmission)
 + [Console App](ConsoleAppAssignmentSubmission)
 + [Constructor](ConstructorSubmission)
-+ Daily Report
-+ Date + Time
-+ Lambda
-+ Main Method
-+ Math Comparison Operators
-+ Methods and Objects
-+ Methods
-+ Operators
-+ Parsing Enums
-+ Polymorphism
-+ String
++ [Daily Report](DailyReportSubmission]
++ [Date + Time](DateTimeSubmission)
++ [Lambda](LambdaSubmission)
++ [Main Method](MainMethodSubmission)
++ [Math + Comparison Operators](MathAndComparisonOperatorsAssignment)
++ [Methods](MethodsSubmission)
++ [Methods + Objects]
++ [Operators](OperatorsSubmission)
++ [ParsingEnums](ParsingEnumsSubmisssion)
++ [Polymorphism](PolymorphismSubmission)
++ [String](StringSubmission)
 + Student App
   
