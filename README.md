@@ -1,5 +1,5 @@
 # Basic-C#-Projects
-## These are few small projects I've done in C-Sharp programming languauge
+### These are few small projects I've written in C-Sharp programming language
 
 
 + [Abstract Class](AbstractClassSubmission)
