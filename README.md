@@ -11,13 +11,13 @@
 + [Console App Array](ConsoleAppArraySubmission)
 + [Console App](ConsoleAppAssignmentSubmission)
 + [Constructor](ConstructorSubmission)
-+ [Daily Report](DailyReportSubmission]
++ [Daily Report](DailyReportSubmission)
 + [Date + Time](DateTimeSubmission)
 + [Lambda](LambdaSubmission)
 + [Main Method](MainMethodSubmission)
 + [Math + Comparison Operators](MathAndComparisonOperatorsAssignment)
 + [Methods](MethodsSubmission)
-+ [Methods + Objects]
++ [Methods + Objects](MethodsAndObjects)
 + [Operators](OperatorsSubmission)
 + [ParsingEnums](ParsingEnumsSubmisssion)
 + [Polymorphism](PolymorphismSubmission)
