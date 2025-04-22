@@ -2,7 +2,7 @@
 ## These are few small projects I've done in C-Sharp programming languauge
 
 
-- [AbstractClass](docs/CONTRIBUTING.md)
+- [AbstractClass](AbstractClassSubmission)
 + [BooleanLogic](ReedDecker/Basic-C-Sharp-Projects/tree/main/AbstractClassSubmission)
 + Branching
 + Calling Methods
