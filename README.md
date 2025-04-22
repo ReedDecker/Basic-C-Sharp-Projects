@@ -6,7 +6,7 @@
 + [Boolean Logic](BooleanLogicSubmission)
 + [Branching](BranchingSubmission)
 + [Calling Methods](CallingMethodsSubmissionAssignment)
-+ [Car Insurance Quote App](CarInsurance.zip)
++ [Car Insurance Quote App](CarInsurance)
 + [Class](ClassSubmission)
 + [Console App Array](ConsoleAppArraySubmission)
 + [Console App](ConsoleAppAssignmentSubmission)
