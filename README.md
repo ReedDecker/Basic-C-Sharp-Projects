@@ -1,7 +1,7 @@
 # Basic-C#-Projects
-### These are few small projects I've written in C-Sharp programming language
+## Collection of C# Projects Completed for the Tech Academy
 
-
+ ## Assignments
 + [Abstract Class](AbstractClassSubmission)
 + [Boolean Logic](BooleanLogicSubmission)
 + [Branching](BranchingSubmission)
