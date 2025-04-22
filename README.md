@@ -25,4 +25,4 @@
 + [Student App](StudentApp)
   
 ## Assignments
-These are the code files I wrote to complete assignments for the Tech Academy. There are combinations of these topics included in this repo aswell but the list encompasses the majority of the topics covered.
+This repo includes code files I wrote to complete assignments for the Tech Academy C#/ASP.net Course
