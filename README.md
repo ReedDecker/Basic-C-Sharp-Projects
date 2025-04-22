@@ -17,7 +17,7 @@
 + [Main Method](MainMethodSubmission)
 + [Math + Comparison Operators](MathAndComparisonOperatorsAssignment)
 + [Methods](MethodSubmission)
-+ [Methods + Objects](MethodsAndObjects)
++ [Methods + Objects](MethodsAndObjectsSubmission)
 + [Operators](OperatorsSubmission)
 + [ParsingEnums](ParsingEnumsSubmisssion)
 + [Polymorphism](PolymorphismSubmission)
