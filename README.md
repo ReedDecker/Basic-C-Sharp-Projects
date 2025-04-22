@@ -3,7 +3,7 @@
 
 
 - [AbstractClass](docs/CONTRIBUTING.md)
-+ [BooleanLogic]([Basic-C-Sharp-Projects/tree/main/BooleanLogicSubmission](https://github.com/ReedDecker/Basic-C-Sharp-Projects/tree/main/BooleanLogicSubmission))
++ [BooleanLogic](ReedDecker/Basic-C-Sharp-Projects/tree/main/AbstractClassSubmission)
 + Branching
 + Calling Methods
 + Car Insurance Quote App
